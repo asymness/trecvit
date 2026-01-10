@@ -57,14 +57,15 @@ Additional checkpoints could be released in the future if requested.
 To cite our work, please use:
 
 ```
-@misc{pătrăucean2024trecvitrecurrentvideotransformer,
-      title={TRecViT: A Recurrent Video Transformer},
-      author={Viorica Pătrăucean and Xu Owen He and Joseph Heyward and Chuhan Zhang and Mehdi S. M. Sajjadi and George-Cristian Muraru and Artem Zholus and Mahdi Karami and Ross Goroshin and Yutian Chen and Simon Osindero and João Carreira and Razvan Pascanu},
-      year={2024},
-      eprint={2412.14294},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.14294},
+@article{
+patraucean2026trecvit,
+title={{TR}ecViT: A Recurrent Video Transformer},
+author={Viorica Patraucean and Xu Owen He and Joseph Heyward and Chuhan Zhang and Mehdi S. M. Sajjadi and George-Cristian Muraru and Artem Zholus and Mahdi Karami and Ross Goroshin and Yutian Chen and Simon Osindero and Joao Carreira and Razvan Pascanu},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=Mmi46Ytb1H},
+note={}
 }
 ```
 
